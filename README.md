@@ -1,4 +1,4 @@
-### ME 793 Assignments
+# ME 793 Assignments
 
 These assignments are part of the course ME 793: Multiscale Materials Informatics, Discovery and Design at IIT Bombay. The course is designed to provide an in-depth understanding of the Data Science and Statistics in perspective of materials and its implementation and application to solve real-world problems. The assignments are designed to provide hands-on experience with the concepts taught in the course.
 
